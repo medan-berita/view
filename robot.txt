@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://medan-berita.github.io/view/sitemap.xml
